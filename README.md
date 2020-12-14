@@ -1,8 +1,9 @@
 
- ## Fitness Tracker
+  # Title 
+  ## Progressive Buget Tracker
 
   ## Description
-  Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.
+  PWS budget tracker app that allows user to add expenses and deposits to their budget with or without a connection. This application was built with NodeJS, Express, and MongoDB/Mongoose.
 
   # Table of Contents
   *  Installation 
@@ -12,20 +13,17 @@
   *  Questions
 
   ## Installation:
-  express | mongoose | morgan 
-
+  Express | Mongo | NodeJS | 
   ## License:
-  MIT
+  
   ![badge](https://img.shields.io/badge/license-MIT-red) 
   
   ## Contributors:
-  I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
-  
+  I was the sole contributor, but did have help from fellow students and instructional staff.
   ## Tests:
   
   ## Usage:
-  You could use it to track a workout, or as the basis of a workout app. 
- 
+  Allows user to to track expenses by allowing user to add depositsand subtract expenses even if not connected to their budget. 
   ## Questions: 
 If you have any questions, you can contact the creator of this repo here: [mkolek7@yahoo.com](mailto:mkolek7@yahoo.com)
 GitHub: https://github.com/mkolek1015
